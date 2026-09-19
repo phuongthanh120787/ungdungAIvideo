@@ -1,0 +1,6 @@
+{
+  "name": "AI Tạo Video Khởi Động Bài Học",
+  "description": "Ứng dụng AI giáo dục hỗ trợ giáo viên THCS phân tích tài liệu sách giáo khoa và tạo kịch bản, video khởi động bài học lôi cuốn với tình huống dẫn nhập và câu hỏi gợi mở.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
